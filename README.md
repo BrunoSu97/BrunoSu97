@@ -57,7 +57,8 @@ I currently work with Python automation and I'm shifting my focus to backend dev
 - PostgreSQL
 
 **Others**
-- Python automation (scripts, scraping, bots, integrat
+- Python automation (scripts, scraping, bots, integrations)
+- Git & GitHub
 
 
 ### 📫 Contato
