@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Bruno
 
-Desenvolvedor **Backend Python** focado em APIs, integrações e automação de processos.  
-Atualmente trabalho com automação em Python e estou migrando meu foco para backend com FastAPI e Django.
+Desenvolvedor Python | Backend, APIs, automação e integrações. Construo soluções para otimização de processos, manipulação de dados e sistemas web.
 
 ### 🚀 O que eu faço
 
