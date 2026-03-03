@@ -1,64 +1,48 @@
-# 👋 Olá, eu sou o Bruno
+# Bruno Su Hwan Yum
 
-Desenvolvedor Python | Backend, APIs, automação e integrações. Construo soluções para otimização de processos, manipulação de dados e sistemas web.
+**Desenvolvedor Python** com foco em automação de processos, RPA e integração de sistemas.
 
-### 🚀 O que eu faço
-
-- Desenvolvo **APIs REST** em Python (FastAPI, Flask).
-- Crio integrações entre sistemas usando HTTP/APIs, web scraping e automação.
-- Trabalho com **bancos de dados** relacionais (SQLite, PostgreSQL).
-- Automatizo coleta, organização e envio de arquivos/dados para nuvem (ex.: Google Drive).
-
-### 🛠️ Tecnologias
-
-**Linguagens**
-- Python
-
-**Backend & Web**
-- FastAPI (estudando/focando)
-- Flask (uso no trabalho atualmente)
-- Django (iniciando)
-
-**Banco de Dados**
-- SQLite
-- PostgreSQL
-
-**Outros**
-- Automação com Python (scripts, scraping, bot, integrações)
-- Git & GitHub
+Trabalho na construção de soluções que eliminam tarefas manuais repetitivas —
+desde scripts simples até sistemas completos com API REST, dashboard e integração
+com múltiplas plataformas corporativas.
 
 ---
 
-# 👋 Hi, I'm Bruno
+## O que eu construo
 
-**Backend Python** developer focused on APIs, integrations, and process automation.  
-I currently work with Python automation and I'm shifting my focus to backend development with FastAPI and Django.
+- **RPA & Automação** — bots Selenium em portais governamentais e sistemas
+  corporativos, com resolução automática de CAPTCHA, retry e logs em produção
+- **APIs REST** — Flask e FastAPI com autenticação JWT, SSE e WebSocket
+- **Integrações** — Google Drive API, Google Sheets, SOAP, SMTP, sistemas legados
+- **Processamento de dados** — extração e análise de PDFs, geração de Excel/CSV,
+  ETL com Pandas
+- **Dashboards** — interfaces web interativas com TailwindCSS + DaisyUI
 
-### 🚀 What I do
+---
 
-- Build **RESTful APIs** in Python (FastAPI, Flask).
-- Create integrations between systems using HTTP/APIs, web scraping, and automation.
-- Work with **relational databases** (SQLite, PostgreSQL).
-- Automate data/file collection, organization, and upload to the cloud (e.g., Google Drive).
+## Stack
 
-### 🛠️ Tech stack
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-green?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-orange?logo=selenium&logoColor=white)
+![Google API](https://img.shields.io/badge/Google_APIs-Drive_&_Sheets-red?logo=google)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
 
-**Languages**
-- Python
+---
 
-**Backend & Web**
-- FastAPI (main current focus)
-- Flask (used in my current job)
-- Django (getting started)
+## Projetos em destaque
 
-**Databases**
-- SQLite
-- PostgreSQL
+| Projeto | Descrição |
+|---|---|
+| [automacao-certidoes-fgts](https://github.com/BrunoSu97/automacao-certidoes-fgts) | Emissão em lote de certidões FGTS via Selenium + CAPTCHA + Google Drive |
+| [automacao-certidoes-tributarias-sp](https://github.com/BrunoSu97/automacao-certidoes-tributarias-sp) | RPA no portal da Prefeitura de SP com análise automática de regularidade |
+| [automacao-notas-reembolso](https://github.com/BrunoSu97/automacao-notas-reembolso) | Sistema web Flask para geração de PDFs e upload automático no Drive |
+| [sistema-gestao-cadastral-condominios](https://github.com/BrunoSu97/sistema-gestao-cadastral-condominios) | Dashboard + API REST com integração SOAP e sincronização inteligente |
+| [automacao-prestacao-contas](https://github.com/BrunoSu97/automacao-prestacao-contas) | RPA integrando dois sistemas corporativos (WISE + AHREAS) via API |
 
-**Others**
-- Python automation (scripts, scraping, bots, integrations)
-- Git & GitHub
-
+---
 
 ### 📫 Contato
 
